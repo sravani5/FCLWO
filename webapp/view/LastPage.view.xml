@@ -1,0 +1,13 @@
+<mvc:View xmlns:core="sap.ui.core" xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m" controllerName="fclFlexibleColumnLayout.controller.LastPage"
+	xmlns:html="http://www.w3.org/1999/xhtml" displayBlock="true" xmlns:f="sap.f" height="100%">
+	<f:DynamicPage toggleHeaderOnTitleClick="false">
+		<!-- DynamicPage Title -->
+		<f:title>
+			<f:DynamicPageTitle>
+				<f:heading>
+					<Title text="About supplier"/>
+				</f:heading>
+			</f:DynamicPageTitle>
+		</f:title>
+	</f:DynamicPage>
+</mvc:View>
